@@ -10,7 +10,7 @@ I like good food 🍔 , sometimes play games 🎮 , adventure movies 🎬 and tr
 
 Skills: HTML / CSS / JS / BOOTSTRAP / GIT/ FIGMA - little😅 
 
-- 🔭 I’m currently working on simple aplication calculator 📱  
+- 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning REACT 
 - 📫 How to reach me: przemek1087b@gmail.com 
 
