@@ -17,5 +17,10 @@ Skills: HTML / CSS / JS / BOOTSTRAP / GIT/ FIGMA - little😅
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YoungPrzemek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xprzemko17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@PrzemekB1702)  
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 
 
